@@ -1,0 +1,7 @@
+main: org.golde.snowball.exampleplugin.ExamplePlugin
+name: Example
+version: 1.0
+description: "A Example plugin to show how to register blocks and items in the Snowball api"
+loadbefore: [SnowballAPI]
+author: Eric Golde
+website: https://eric.golde.org/
