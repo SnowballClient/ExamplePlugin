@@ -26,7 +26,7 @@ public class ExamplePlugin extends JavaPlugin implements Listener {
 	@Override
 	public void onLoad() {
 		sbapi = SnowballAPI.getInstance(this);
-		//addExamples();
+		addExamples();
 	}
 
 	/*
